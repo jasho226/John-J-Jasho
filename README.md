@@ -12,3 +12,6 @@ Created a program to print the n odd numbers based on the given pattern.
 
 ## Program4.java
 Created a program to print the count of the numbers divisible from 1-9 in the given array or list.
+
+## Execution of the files
+Use a java IDE to run the programs.
